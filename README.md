@@ -31,6 +31,8 @@ to be notified when an event happened once you subscripe to this type of event s
 
 5. MSSQL Server
 
+6. EF 7
+
 
 
 <br>
